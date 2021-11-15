@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\Mini project\Scientific Calculator\Scientific Calculator new\Scientific Calculator new\Debug\ScientificCalculatornew.MyForm.resources
+C:\Users\user\Desktop\Mini project\Scientific Calculator\Scientific Calculator new\Scientific Calculator new\Debug\Scientific Calculator new.vcxproj.GenerateResource.cache

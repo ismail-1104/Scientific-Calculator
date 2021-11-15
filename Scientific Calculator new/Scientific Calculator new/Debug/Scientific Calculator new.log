@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\Mini project\Scientific Calculator\Scientific Calculator new\Scientific Calculator new\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Scientific Calculator new.vcxproj -> C:\Users\user\Desktop\Mini project\Scientific Calculator\Scientific Calculator new\Debug\Scientific Calculator new.exe
